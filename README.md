@@ -1,6 +1,8 @@
 # Benjamin::Lewis
 
-TODO: Write a gem description
+1. Install Benjamin Lewis
+2. ...
+3. Profit
 
 ## Installation
 
@@ -18,11 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Benjamin needs to be watered and fed 2-3 times a day.
+Exercise him 3 times a week for best performance.
+If no clean water is available beer will work.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/benjamin-lewis/fork )
+1. Fork it ( https://github.com/23inhouse/benjamin-lewis/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
